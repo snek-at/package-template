@@ -82,7 +82,7 @@ those rules whenever possible.
 
 **Schett Nico**
 
-- <https://twitter.com/sxct>
+- <https://twitter.com/sxct4>
 - <https://github.com/schettn>
 
 ## [](#thanks)Thanks
