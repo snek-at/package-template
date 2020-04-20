@@ -18,9 +18,6 @@ This repository serves as an entry point for future packages of the SNEK team.
   <a href="https://www.overleaf.com/read/bcxwhwbhrmps">Documentation</a>
   <br>
   <br>
-  <a href="https://www.codacy.com/app/kleberbaum/package-template">
-    <img src="https://api.codacy.com/project/badge/Grade/20d80a1790c44c90a3376e77d34a99ff" />
-  </a>
 </p>
 
 ## Table of contents
@@ -95,7 +92,7 @@ to [contribute to our project](#contributing).
 ![GitHub repository license](https://img.shields.io/badge/license-EUPL--1.2-blue)
 
 SPDX-License-Identifier: (EUPL-1.2)
-Copyright © 2019 Werbeagentur Christian Aichner
+Copyright © 2019-2020 Simon Prast
 
 [discord-badge]: https://img.shields.io/badge/Discord-Join%20chat%20%E2%86%92-738bd7.svg
 [discord]: https://discord.gg/dnxUJmk
