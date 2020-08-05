@@ -1,46 +1,27 @@
-<p align="center">
-  <a href="https://www.aichner-christian.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.aichner-christian.com/img/logo/logo_web.png" alt="Agency Logo" height="150">
-  </a>
-</p>
+**Checklist:**
 
-<h3 align="center">Official contributing guidelines</h3>
-
-<p align="center">
-  A code of conduct is a set of rules outlining the norms, rules, and responsibilities of, 
-  and or proper practices for, an individual.
-</p>
-
-## Table of contents
-- [Table of contents](#table-of-contents)
-- [[](#commits)Commits](#commitscommits)
-- [[](#pull-requests)Pull Requests](#pull-requestspull-requests)
+ <!--- Make sure your PR is documented and tested before submission. Put an `x` in all the boxes that apply: -->
+ - [x] Have you added an explanation of what your changes do and why you'd like them to be included?
+ - [x] Have you updated or added documentation for the change?
+ - [x] Have you tested your changes with successful results?
 
 
-## [](#commits)Commits
+**Type of Changes:**
 
-- All commits may start with an uppercase letter
-- All commits must be written in present tense
-- All commits may be multiline commits
-- The commit headline must have a maximum of 71 chars
-- The commit message must have a maxmum of 71 chars per line
-- If possible, include link to online topic as reference (Ref: )
-- Detailed explanation why the commit was done
-- Include reference to issue if one exists
-- All commits must be verified
-- No commits, under no circumstances, should be directly pushed to master (deadly)
-- Each commit should only serve one purpose
-
-## [](#pull-requests)Pull Requests
-
-- Each pull request should only follow one topic
-- You must follow the guidelines / template
-- Each pull request must answer one more more issues
-- Each pull request must have at least one reviewer
-- Each pull request must have at least one assigned developers
-- Each pull request must have a label
-- Each pull request should be merged by a reviewer
+ <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
+ - [ ] Bug fix (non-breaking change which fixes an issue)
+ - [ ] New feature (non-breaking change which adds functionality)
+ - [x] Documentation (non-breaking change which adds documentation)
+ - [ ] Breaking change (fix or feature that would cause existing functionality to change)
 
 
-SPDX-License-Identifier: (EUPL-1.2)
-Copyright © 2019 Werbeagentur Christian Aichner
+**What is the current behavior? (link to any open issues here)**
+- Currently the contributing guidelines are outdated. #12 
+
+
+**What is the new behavior (if this is a feature change)?**
+- Now the contributing guidelines are up to date. Closes #12 
+
+
+**Other information**:
+- Ref: 🐍
